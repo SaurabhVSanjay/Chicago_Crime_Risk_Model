@@ -1,13 +1,13 @@
 # Chicago_Crime_Risk_Model
 A PySpark-based machine learning pipeline to classify violent and non-violent crimes in Chicago using the official crime dataset. Includes full ETL, EDA, feature engineering, model building, and visual evaluation.
 
-# Chicago Crime Risk Model 🚔📊
+# Chicago Crime Risk Model
 
 This project builds a scalable machine learning pipeline using PySpark to classify violent vs non-violent crimes reported in Chicago since 2001. It includes end-to-end data engineering, exploratory data analysis, feature engineering, model building, ensemble voting, evaluation, and optimization.
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 We analyze 300K+ historical records from the Chicago Police Department to uncover spatial, temporal, and behavioral patterns in crime. Our objective is to build a risk model to support data-driven decision-making for policy makers and law enforcement.
 
@@ -19,7 +19,7 @@ We analyze 300K+ historical records from the Chicago Police Department to uncove
 
 ---
 
-## 🔍 Dataset
+## Dataset
 
 - **Source**: [Chicago Data Portal - Crimes 2001 to Present](https://data.cityofchicago.org/)
 - **Records**: ~412,000 crime incidents
@@ -30,7 +30,7 @@ We analyze 300K+ historical records from the Chicago Police Department to uncove
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - 🐍 PySpark
 - 🐘 Apache Spark 3.5 (via Databricks)
@@ -41,7 +41,7 @@ We analyze 300K+ historical records from the Chicago Police Department to uncove
 
 ---
 
-## 🧪 ML Model Pipeline
+## ML Model Pipeline
 
 - Cleaned and indexed critical fields
 - Engineered new features: hour, weekday, year, etc.
@@ -58,7 +58,7 @@ We analyze 300K+ historical records from the Chicago Police Department to uncove
 
 ---
 
-## 📈 Results Snapshot
+## Results Snapshot
 
 | Metric        | GBT        | Ensemble Voting |
 |---------------|------------|-----------------|
