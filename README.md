@@ -32,12 +32,12 @@ We analyze 300K+ historical records from the Chicago Police Department to uncove
 
 ## Technologies Used
 
-- 🐍 PySpark
-- 🐘 Apache Spark 3.5 (via Databricks)
-- 📊 Matplotlib / Seaborn (for visualization)
-- 📦 XGBoost
-- 📚 Pandas & NumPy (for intermediate analysis)
-- 🧠 Machine Learning: GBT, Random Forest, Logistic Regression, Ensemble Voting
+- PySpark
+- Apache Spark 3.5 (via Databricks)
+- Matplotlib / Seaborn (for visualization)
+- XGBoost
+- Pandas & NumPy (for intermediate analysis)
+- Machine Learning: GBT, Random Forest, Logistic Regression, Ensemble Voting
 
 ---
 
